@@ -7,6 +7,5 @@ Languages:
 - Java
 - Python
 - Html
-- 
 I am a BCA student learning programming and problem solving.
 # basic-programming-bca
